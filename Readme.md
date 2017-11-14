@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Зубов](https://up.htmlacademy.ru/javascript/11/user/29353).
-* Наставник: `Неизвестно`.
+* Наставник: [Игорь Тараканов](https://up.htmlacademy.ru/javascript/11/user/487569).
 
 ---
 
